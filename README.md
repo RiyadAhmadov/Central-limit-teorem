@@ -50,10 +50,6 @@ To apply the Central Limit Theorem in practice, follow these steps:
 
 For a deeper understanding of the Central Limit Theorem and its applications, consider exploring additional resources such as textbooks, online courses, and academic papers.
 
-## License
-
-This project is provided under the [Your License Name] License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
-For questions or feedback regarding this README or the Central Limit Theorem, please contact [Riyad] at [riyadehmedov03@gmail.com].
+For questions or feedback regarding this README or the Central Limit Theorem, please contact *Riyad* at *riyadehmedov03@gmail.com*.
